@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "Ene – Feb 2026",
+    "institucion": "University of British Columbia",
+    "programa": "Visiting International Research Student (Go Global Program)",
+    "descripcion": [
+      "Pasantía de investigación en Vancouver, Canadá."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "2025 – Jul 2026 (esperado)",
+    "institucion": "Pontificia Universidad Católica de Chile",
+    "programa": "Magíster en Economía Agraria y Ambiental",
+    "descripcion": [
+      "Estudiante de postgrado en economía agraria y ambiental."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Oct 2024 - May 2025",
+    "institucion": "Talento Futuro (CORFO)",
+    "programa": "Beca Back-End en Python",
+    "descripcion": [
+      "Programa financiado por CORFO, Gobierno de Chile."
+    ],
+    "link": "https://view.pok.tech/c/c45aa3e6-d630-410a-8ec6-d87859c16c38"
+  },
+
+  {
+    "fecha": "2012 – 2018",
+    "institucion": "Pontificia Universidad Católica de Chile",
+    "programa": "Licenciatura y título profesional en Geografía",
+    "descripcion": [
+      "Formación en análisis espacial, SIG y ciencias territoriales."
+    ],
+    "link": ""
+  }
+]

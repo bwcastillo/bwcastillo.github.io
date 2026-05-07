@@ -1,0 +1,132 @@
+[
+  {
+    "fecha": "Ene 2025 – Dic 2025",
+    "institucion": "Centro de Desarrollo Integral de los Territorios (CEDIT) – Pontificia Universidad Católica de Chile",
+    "cargo": "Becario de investigación",
+    "descripcion": [
+      "Generación de datos espaciales para la plataforma VISTA Chile.",
+      "Desarrollo de tesis de magíster sobre el impacto causal del humo de incendios forestales en la salud utilizando imágenes satelitales de MP2.5."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Nov 2024 – Sept 2025",
+    "institucion": "Centro de Inteligencia Territorial (CIT) – Universidad Adolfo Ibáñez",
+    "cargo": "Analista de datos espaciales",
+    "descripcion": [
+      "Generación de conjuntos de datos espaciales mediante técnicas de web scraping.",
+      "Documentación de procesos y elaboración de reportes de análisis.",
+      "Desarrollo de análisis de redes utilizando ArcGIS Pro."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Oct 2023 – Oct 2024",
+    "institucion": "Fundación Paz Ciudadana",
+    "cargo": "Analista de datos",
+    "descripcion": [
+      "Implementación del programa Observatorios para la prevención y persecución del crimen.",
+      "Sistematización y protocolización de flujos de información de seguridad pública.",
+      "Generación de convenios y protocolos de transferencia de datos.",
+      "Desarrollo de una plataforma prototipo en Python para reportería semanal automatizada."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Ago 2022 – Ene 2023",
+    "institucion": "University of Waterloo (Canada) – Partners for Action",
+    "cargo": "Research Assistant",
+    "descripcion": [
+      "Especialista GIS del equipo de investigación.",
+      "Construcción de bases de datos censales canadienses entre 1996 y 2021.",
+      "Desarrollo de plataformas interactivas con RShiny.",
+      "Aplicación de metodologías BiLISA para análisis de socio-vulnerabilidad e inundaciones."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Ene 2021 – Ago 2021",
+    "institucion": "Office of the Geographer and Global Issues – U.S. Department of State",
+    "cargo": "Co-investigador",
+    "descripcion": [
+      "Recolección y espacialización de datos COVID y seguridad pública mediante web scraping.",
+      "Publicación de análisis exploratorios en RPubs.",
+      "Participación en reuniones internacionales de investigación remota."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "May 2019 – Sept 2021",
+    "institucion": "Centro de Desarrollo Urbano Sustentable (CEDEUS) – Pontificia Universidad Católica de Chile",
+    "cargo": "Asistente de investigación",
+    "descripcion": [
+      "Creación, análisis y visualización de datos geográficos.",
+      "Procesamiento de información censal, EOD y encuestas.",
+      "Contribución a investigaciones sobre movilidad y accesibilidad urbana."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Nov 2018 – Dic 2020",
+    "institucion": "Instituto Milenio Fundamento de los Datos (IMFD) – Pontificia Universidad Católica de Chile",
+    "cargo": "Asistente de investigación",
+    "descripcion": [
+      "Construcción de bases de datos y revisiones bibliográficas.",
+      "Investigación sobre conflictos medioambientales y zonas de sacrificio.",
+      "Trabajo de recolección de datos en terreno en Quintero-Puchuncaví."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Nov 2018 – Mar 2019",
+    "institucion": "Pontificia Universidad Católica de Chile – Proyecto Accesobarrio",
+    "cargo": "Asistente de investigación",
+    "descripcion": [
+      "Análisis de datos OpenStreetMap utilizando OpenJump y QGIS.",
+      "Contribución a API para generación de índices de accesibilidad.",
+      "Construcción de bases de datos replicables en R."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "May 2018 – Jun 2018",
+    "institucion": "Pontificia Universidad Católica de Chile",
+    "cargo": "Ayudante de cátedra",
+    "descripcion": [
+      "Asistencia en el desarrollo de webmaps con JavaScript.",
+      "Apoyo docente en el curso de Análisis de Políticas."
+    ],
+    "link": ""
+  },
+
+  {
+    "fecha": "Ene 2018 – Abr 2018",
+    "institucion": "Ilustre Municipalidad de Maipú – Departamento de Medio Ambiente",
+    "cargo": "Práctica profesional",
+    "descripcion": [
+      "Sistematización y georreferenciación de información ambiental.",
+      "Desarrollo de plataforma web en JavaScript para publicación de datos.",
+      "Implementación de visualización geográfica pública."
+    ],
+    "link": "http://bwcastillo.github.io/Mapa"
+  },
+
+  {
+    "fecha": "Jul 2017 – Ago 2017",
+    "institucion": "Departamento de Geografía – Pontificia Universidad Católica de Chile",
+    "cargo": "Asistente de investigación",
+    "descripcion": [
+      "Procesamiento de información CASEN utilizando Excel y SPSS.",
+      "Apoyo en sistematización de datos para proyecto FONDECYT N°1150636."
+    ],
+    "link": ""
+  }
+]
